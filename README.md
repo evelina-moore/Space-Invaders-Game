@@ -1,5 +1,7 @@
 # Space-Invaders-Game
 
+https://evelina-moore.github.io/Space-Invaders-Game/
+
 ### Hi! 
 ### This is my first project written after a month of learning Java Script. Don't be too strict :)
 
