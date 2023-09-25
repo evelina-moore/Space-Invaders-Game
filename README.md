@@ -15,9 +15,6 @@ https://evelina-moore.github.io/Space-Invaders-Game/
 + Heart += lives;
 + Rocket/bomb = removes visible enemies.
 
-![1](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/c7da7828-5fe5-4ce1-bfec-e4856aa02199)
-![2](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/f1a04c11-a807-432d-b2c1-f798fb244100)
-![3](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/78f79970-408f-4205-9238-7a7069a2e3a9)
-
-
-
+![1](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/1aa32496-af9a-4c0e-9828-11888a555cfc)
+![2](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/467cec8d-c94b-4881-96cb-6b04ad2e52da)
+![3](https://github.com/evelina-moore/Space-Invaders-Game/assets/133994137/5441e7bd-3787-4347-8e39-d2ab69991c86)
